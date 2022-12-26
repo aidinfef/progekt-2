@@ -2,6 +2,14 @@
   box-sizing: border-box;
 }
 
+body{
+  background-color: #F1F1F1;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+  font-family: 'Roboto';
+}
+
 header nav ul{
   display: flex;
   justify-content: space-between;
@@ -12,4 +20,5 @@ header nav ul li a{
   color: black;
   text-decoration: none;
 }
+
 
