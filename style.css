@@ -7,15 +7,15 @@ body{
 }
 
 .back-1{
-  background: image();
-  background: image();
-  background: image();
+  background-image:url(./Rectanglenegr1.png);
+  background-image:url(./Rectanglenegr2.png);
+  background-image:url(./Rectanglenegr3.png);
 }
 
 h1,h2,h3,h4,h5,h6,p{
   font-family: 'Roboto';
 }
-
+  
 header nav ul{
   display: flex;
   justify-content: space-between;
