@@ -21,4 +21,18 @@ header nav ul li a{
   text-decoration: none;
 }
 
+.foot-1{
+  display: flex;
+  justify-content: space-between;
+}
+.foot-2{
+  display: flex;
+  justify-content: space-between;
 
+}
+.conteiner-1{
+  perspective: none;
+  @media screen {
+    
+  }
+}
