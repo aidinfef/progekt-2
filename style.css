@@ -6,6 +6,12 @@ body{
   background-color: #F1F1F1;
 }
 
+.back-1{
+  background: image();
+  background: image();
+  background: image();
+}
+
 h1,h2,h3,h4,h5,h6,p{
   font-family: 'Roboto';
 }
@@ -28,11 +34,4 @@ header nav ul li a{
 .foot-2{
   display: flex;
   justify-content: space-between;
-
-}
-.conteiner-1{
-  perspective: none;
-  @media screen {
-    
-  }
 }
