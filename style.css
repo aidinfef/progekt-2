@@ -120,11 +120,11 @@ body {
 
 header {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 
 header img {
-  width: 500px;
+  width: 33%;
 }
 
 .shop {
